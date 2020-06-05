@@ -1,0 +1,12 @@
+﻿  region_transformation.cpp
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(187): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(188): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(195): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(196): warning C4305: 'initializing': truncation from '__int64' to 'int'
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(196): warning C4309: 'initializing': truncation of constant value
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(207): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\anshit vishwakarma\desktop\sensovision\halcon\halcon\region_transformation.cpp(299): warning C4715: 'region_transformation::fill_up_shape': not all control paths return a value
+  HALCON.vcxproj -> C:\Users\Anshit Vishwakarma\Desktop\Sensovision\HALCON\x64\Debug\HALCON.exe
+  HALCON.vcxproj -> C:\Users\Anshit Vishwakarma\Desktop\Sensovision\HALCON\x64\Debug\HALCON.pdb (Full PDB)
